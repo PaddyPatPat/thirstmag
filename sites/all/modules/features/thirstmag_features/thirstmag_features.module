@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the ThirstMag Features feature.
+ */
+
+include_once 'thirstmag_features.features.inc';

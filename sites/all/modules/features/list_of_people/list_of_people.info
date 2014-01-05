@@ -1,0 +1,11 @@
+name = List of People
+description = A list of all the people added to the website, in a page with a menu link.
+core = 7.x
+package = Features
+version = 7.x-1.0-beta1
+project = list_of_people
+dependencies[] = ctools
+dependencies[] = views
+features[ctools][] = views:views_default:3.0
+features[features_api][] = api:2
+features[views_view][] = list_of_people
